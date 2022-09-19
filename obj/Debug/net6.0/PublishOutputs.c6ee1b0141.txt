@@ -1,0 +1,5 @@
+C:\Users\maria\OneDrive\Escritorio\repositorios\Actividad0\AC0_Compilador\bin\Debug\net6.0\publish\AC0_Compilador.exe
+C:\Users\maria\OneDrive\Escritorio\repositorios\Actividad0\AC0_Compilador\bin\Debug\net6.0\publish\AC0_Compilador.dll
+C:\Users\maria\OneDrive\Escritorio\repositorios\Actividad0\AC0_Compilador\bin\Debug\net6.0\publish\AC0_Compilador.deps.json
+C:\Users\maria\OneDrive\Escritorio\repositorios\Actividad0\AC0_Compilador\bin\Debug\net6.0\publish\AC0_Compilador.runtimeconfig.json
+C:\Users\maria\OneDrive\Escritorio\repositorios\Actividad0\AC0_Compilador\bin\Debug\net6.0\publish\AC0_Compilador.pdb
